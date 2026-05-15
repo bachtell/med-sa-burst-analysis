@@ -46,7 +46,6 @@ This pipeline is designed to support analyses of:
 - Session-level summary outputs
 - Long-format and wide-format exports
 - Excel workbook generation
-- Missing-value interpolation
 - Longitudinal session organization
 
 ---

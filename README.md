@@ -2,7 +2,7 @@
 
 A modular MATLAB pipeline for analyzing Med-PC self-administration data with integrated burst detection and session-level behavioral summary statistics.
 
-This repository was developed to process Med-PC C-array behavioral output files from rodent drug self-administration experiments. The workflow reconstructs behavioral event timestamps, computes self-administration metrics, detects burst-like intake behavior, and exports organized summary tables for downstream statistical analysis.
+This repository was developed to process Med-PC C-array behavioral output files from rodent drug self-administration experiments. The workflow reconstructs behavioral event timestamps, computes self-administration metrics, detects burst-like intake behavior, and exports organized summary tables for visualization and statistical analysis.
 
 ---
 
